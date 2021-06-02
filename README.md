@@ -2,20 +2,20 @@
 
 ## Introduction
 
-- Shell shoveling, in network security, refers to the act of redirecting the input and output of a shell to a service so that it can be remotely accessed. In computing, the most basic method of interfacing with the operating system is the shell.
+- **Shell shoveling**, in network security, refers to the act of redirecting the input and output of a shell to a service so that it can be remotely accessed. In computing, the most basic method of interfacing with the operating system is the shell.
 
-- A reverse shell is a shell session established on a connection that is initiated from a remote machine, not from the local host. Attackers who successfully exploit a remote command execution vulnerability can use a reverse shell to obtain an interactive shell session on the target machine and continue their attack.
+- A **reverse shell** is a shell session established on a connection that is initiated from a remote machine, not from the local host. Attackers who successfully exploit a remote command execution vulnerability can use a reverse shell to obtain an interactive shell session on the target machine and continue their attack.
 
 ## Requirements
 
-- **OS**
-Usage : It provides functions for interacting with the operating system. 
-- **Socket**
-Usage :  It is a way of connecting two nodes on a network to communicate with each other.
-- **SubProcess** 
-Usage :  It is used to run new applications or programs through Python code by creating new processes.
-- **SYS**
-Usage : provides various functions and variables that are used to manipulate different parts of the Python runtime environment.
+- ***OS***
+  - **Usage :** *It provides functions for interacting with the operating system. *
+- ***Socket***
+  - **Usage :** *It is a way of connecting two nodes on a network to communicate with each other.*
+- ***SubProcess*** 
+  - **Usage :** *It is used to run new applications or programs through Python code by creating new processes.*
+- ***SYS***
+  - **Usage :** *It provides various functions and variables that are used to manipulate different parts of the Python runtime environment.*
 
 ## Algorithm of this Project
 
